@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NInject.Demo", "NInjectDemo\NInject.Demo.csproj", "{E9426E7A-ACA2-447F-BDBB-3CCEFB514080}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NInject.Models", "NInject.Models\NInject.Models.csproj", "{ADA6433A-3961-4BB1-AD0B-1731EAA1A1AF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NInject.Factory", "NInject.Factory\NInject.Factory.csproj", "{FF156C5A-84EF-4BD3-8D5D-5EC0967C06F3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E9426E7A-ACA2-447F-BDBB-3CCEFB514080}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E9426E7A-ACA2-447F-BDBB-3CCEFB514080}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E9426E7A-ACA2-447F-BDBB-3CCEFB514080}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E9426E7A-ACA2-447F-BDBB-3CCEFB514080}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ADA6433A-3961-4BB1-AD0B-1731EAA1A1AF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ADA6433A-3961-4BB1-AD0B-1731EAA1A1AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ADA6433A-3961-4BB1-AD0B-1731EAA1A1AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ADA6433A-3961-4BB1-AD0B-1731EAA1A1AF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FF156C5A-84EF-4BD3-8D5D-5EC0967C06F3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FF156C5A-84EF-4BD3-8D5D-5EC0967C06F3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FF156C5A-84EF-4BD3-8D5D-5EC0967C06F3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FF156C5A-84EF-4BD3-8D5D-5EC0967C06F3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
